@@ -9,7 +9,7 @@ Campaign Monitor is a website that hosts free email templates.
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [What I've learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 
@@ -30,7 +30,7 @@ Campaign Monitor is a website that hosts free email templates.
 
 - MJML 
 
-### What I learned 
+### What I've learned 
 
 I used this project as an opportunity to learn how to make responsive
 emails with the MJML framework. 
